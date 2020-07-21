@@ -9,16 +9,16 @@ Click on the start button and start typing the following “Environment Variable
 You will get the following window.
 Click on Environment Variables.
 
-![](X_System_Properties.png)
+![](images/X_System_Properties.png)
 
 A new window will pop up. Now double click on the “Path” under the User Variables. 
 
-![](X_Env_Variables.png)
+![](images/X_Env_Variables.png)
 
 This window will pop up (Note: The values inside this window might be different for your system). 
 
 
-![](X_Edit_Env_Variables.png)
+![](images/X_Edit_Env_Variables.png)
 
 Click on New and paste the following address:
 
