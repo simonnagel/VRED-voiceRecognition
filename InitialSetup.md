@@ -46,7 +46,7 @@ Then run the following command in the folder where you have downloaded get-pip.p
 
 
 If you encounter any error then follow the mentioned steps:
-1. Download [pip37.zip](pip37.zip)
+1. Download [pip37.zip](sources/pip37.zip)
 2. Extract to `C:\Program Files\Autodesk\VREDPro-13.0\lib\python\Lib\site-packages`
 Pip is now installed!
 To check your pip version and to confirm pip has been installed correctly run the command:
@@ -75,7 +75,7 @@ Open terminal and write the following command:
 If you encounter an error message: 
 `“error: Microsoft Visual C++ 14.0 is required”`
 
-Download [PyAudio-0.2.11-cp37-cp37m-win_amd64.whl](PyAudio-0.2.11-cp37-cp37m-win_amd64.whl) source [https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
+Download [PyAudio-0.2.11-cp37-cp37m-win_amd64.whl](sources/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl) source [https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
 
 Now, open terminal in the folder where the file is downloaded.
 Press shift + right click in the folder (click anywhere in the empty space) and click on “Open Powershell Window Here”
