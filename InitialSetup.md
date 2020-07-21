@@ -75,7 +75,8 @@ Open terminal and write the following command:
 If you encounter an error message: 
 `“error: Microsoft Visual C++ 14.0 is required”`
 
-Download [PyAudio-0.2.11-cp37-cp37m-win_amd64.whl](sources/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl) source [https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
+Download [PyAudio-0.2.11-cp37-cp37m-win_amd64.whl](https://github.com/simonnagel/VRED-voiceRecognition/raw/master/sources/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl) 
+original source [https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
 
 Now, open terminal in the folder where the file is downloaded.
 Press shift + right click in the folder (click anywhere in the empty space) and click on “Open Powershell Window Here”
