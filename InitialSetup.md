@@ -45,10 +45,12 @@ Then run the following command in the folder where you have downloaded get-pip.p
 
 
 
-If you encounter any error then follow the mentioned steps:
+If you encounter any error then follow these steps:
 1. Download [pip37.zip](https://github.com/simonnagel/VRED-voiceRecognition/raw/master/sources/pip37.zip)
 2. Extract to `C:\Program Files\Autodesk\VREDPro-13.0\lib\python\Lib\site-packages`
+
 Pip is now installed!
+
 To check your pip version and to confirm pip has been installed correctly run the command:
 
 `python -m pip --version`
