@@ -15,7 +15,8 @@ Press A to enable the voice annotation mode.
 Immediately start speaking after pressing A .
 Take a pause after finish speaking and wait for your audio to process.
 Once you see the output in the terminal start speaking again to change the current annotation.
-Say 'stop' to stop working on current annotation and press A again to create a new annotation.
+Say 'stop' to stop working on current annotation 
+Press A again to create a new annotation.
 Say 'remove' to erase your current annotation.
 Press S to manually disable voice annotation.
 
