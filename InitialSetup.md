@@ -87,7 +87,7 @@ Now in the terminal write the following command:
 `python -m pip install PyAudio 0.2.11 cp37 cp37m win_amd64.whl`
 
 Sources: 
-How to install pip[](https://pip.pypa.io/en/stable/installing/)
-Speech Recognition [](https://pypi.org/project/SpeechRecognition/#description)
-PyAudio [](https://pypi.org/project/PyAudio/#files)
-How to install packages in python [](https://packaging.python.org/tutorials/installing-packages/)
+[How to install pip](https://pip.pypa.io/en/stable/installing/)
+[Speech Recognition](https://pypi.org/project/SpeechRecognition/#description)
+[PyAudio](https://pypi.org/project/PyAudio/#files)
+[How to install packages in python](https://packaging.python.org/tutorials/installing-packages/)
