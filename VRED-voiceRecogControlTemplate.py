@@ -205,3 +205,6 @@ key = vrKey(Key_V)
 key.connect(VoiceRecogControlEnable)
 
 vrLogInfo("Welcome to Voice Recognition!\nPress V to enable the voice recognition mode\nImmediately start speaking after pressing V \nTake a pause after finish speaking and wait for your audio to process\nOnce you see the output in the terminal start speaking again \nPress B to manually disable voice recognition")
+
+
+
