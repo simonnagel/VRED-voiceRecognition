@@ -315,7 +315,7 @@ def syncCollabAnnoMaterials():
         
 key3 = vrKey(Key_S)
 key3.connect(voiceRecogAnno_audio_stop)        
-
+renderAnno = RenderActionAnnotation()
 vrAnnoFlag = False
 key4 = vrKey(Key_A)
 key4.connect(voiceRecogAnnotationEnable)
