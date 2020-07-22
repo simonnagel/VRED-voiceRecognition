@@ -107,11 +107,13 @@ def VoiceRecogControl_audio_stop():
 
 def voiceRecogAnno_audio_stop():
     global vrAnnoFlag
-    if vrAnnoFlag == True:
-        print("You said 'Stop' or pressed 'S' Stopping Annotation\n  Press 'A' again to create a new annotation")
-        stop_listening(wait_for_stop=False)
-        vrAnnoFlag = False 
-
+    try:
+        if vrAnnoFlag == True:
+            print("You said 'Stop' or pressed 'S' Stopping Annotation\n  Press 'A' again to create a new annotation")
+            stop_listening(wait_for_stop=False)
+            vrAnnoFlag = False 
+    except:
+        print("Please enable Voice Annotation if possible")
 def registerKeywordFunction(keywords, function):
     global keywordFunctions
     sig = signature(function)
