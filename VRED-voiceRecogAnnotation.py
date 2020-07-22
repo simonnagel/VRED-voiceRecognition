@@ -19,7 +19,9 @@ Say 'stop' to stop working on current annotation
 Press A again to create a new annotation.
 Say 'remove' to erase your current annotation.
 Press S to manually disable voice annotation.
-
+Additionally, the date and time is recorded for every annotation that has been created with the name of the user in the current session.
+If there are more than one user in the collaboration session then the color of the annotation will be as same as user's avatar.
+All the annotations in the current session are stored in an xml file at the end of the collaboration session.
 '''
 
 
