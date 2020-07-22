@@ -321,3 +321,5 @@ key4 = vrKey(Key_A)
 key4.connect(voiceRecogAnnotationEnable)
 
 vrLogInfo("Welcome to Voice Annotation!\nPress A to enable the voice Annotation mode\nImmediately start speaking after pressing A \nTake a pause after finish speaking and wait for your audio to process\nOnce you see the output in the terminal start speaking again to change the current annotation\nSay 'stop' to stop working on current annotation and press A again to create a new annotation\nSay 'remove' to erase your current annotation\nPress S to manually disable voice recognition")
+
+
