@@ -63,7 +63,10 @@ Tpye `cd C:\Program Files\Autodesk\VREDPro-13.0\lib\python`
 If you encounter an error message: 
 `“error: Microsoft Visual C++ 14.0 is required”`
 
-Download [PyAudio-0.2.11-cp37-cp37m-win_amd64.whl](https://github.com/simonnagel/VRED-voiceRecognition/raw/master/sources/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl) 
+Download [PyAudio-0.2.11-cp37-cp37m-win_amd64.whl](https://github.com/simonnagel/VRED-voiceRecognition/raw/master/sources/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl) to 
+
+`C:\Program Files\Autodesk\VREDPro-13.0\lib\python`
+
 original source [https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
 
 Open the Windows Command Line in Admin Mode. (Windows-r and type CMD and Press CTRL-SHIFT-RETURN to start as Admin)
@@ -71,6 +74,13 @@ Open the Windows Command Line in Admin Mode. (Windows-r and type CMD and Press C
 Tpye `cd C:\Program Files\Autodesk\VREDPro-13.0\lib\python`
 
 `python -m pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl`
+
+
+Now you can start VRED and use the files:
+VRED-voiceRecogControlTemplate.py
+VRED-voiceRecogAnnotation.py
+VRED-voiceRecogControlTemplateAnnotation.py
+
 
 ### Sources: 
 [How to install pip](https://pip.pypa.io/en/stable/installing/)
