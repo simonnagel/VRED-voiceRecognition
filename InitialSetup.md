@@ -14,6 +14,8 @@ To install pip in your system first write following command  to download get -pi
 
 `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
 
+
+
 Then run the following command in the folder where you have downloaded get-pip.py:
 
 `python get-pip.py`
