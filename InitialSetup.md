@@ -66,9 +66,9 @@ If you encounter an error message:
 Download [PyAudio-0.2.11-cp37-cp37m-win_amd64.whl](https://github.com/simonnagel/VRED-voiceRecognition/raw/master/sources/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl) 
 original source [https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
 
-Now, open terminal in the folder where the file is downloaded.
-Press shift + right click in the folder (click anywhere in the empty space) and click on “Open Powershell Window Here”
-Now in the terminal write the following command:
+Open the Windows Command Line in Admin Mode. (Windows-r and type CMD and Press CTRL-SHIFT-RETURN to start as Admin)
+
+Tpye `cd C:\Program Files\Autodesk\VREDPro-13.0\lib\python`
 
 `python -m pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl`
 
