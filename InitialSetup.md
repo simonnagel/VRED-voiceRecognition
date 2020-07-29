@@ -20,7 +20,7 @@ Then run the following command in the folder where you have downloaded get-pip.p
 
 `python get-pip.py`
 
-![](X_Command_Line_Pip.PNG)
+![](images/X_Command_Line_Pip.PNG)
 
 
 If you encounter any error then follow these steps:
