@@ -53,7 +53,7 @@ Open the Windows Command Line in Admin Mode. (Windows-r and type CMD and Press C
 Tpye `cd C:\Program Files\Autodesk\VREDPro-13.0\lib\python`
 
 
-`python -m pip install SpeechRecognition`
+`python -m pip install PyAudio`
 
 If you encounter an error message: 
 `“error: Microsoft Visual C++ 14.0 is required”`
