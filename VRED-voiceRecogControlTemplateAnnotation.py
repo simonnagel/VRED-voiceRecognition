@@ -312,7 +312,7 @@ def syncCollabAnnoMaterials():
     
     if vrSessionService.isConnected() != 1:
         # change to a foldername on your PC
-        foldername = "c:/tempe/"
+        foldername = "c:/temp/"
         vrAnnotationService.saveAnnotations(vrAnnotationService.getAnnotations(),foldername + "mVoiceAnno2data.xml")
         
 key3 = vrKey(Key_S)
