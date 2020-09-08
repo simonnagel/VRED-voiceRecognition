@@ -60,6 +60,8 @@ Tpye `cd C:\Program Files\Autodesk\VREDPro-13.0\lib\python` (make sure to naviga
 
 `python -m pip install PyAudio`
 
+
+
    If you encounter an error message: 
    `“error: Microsoft Visual C++ 14.0 is required”`
 
@@ -74,6 +76,8 @@ Tpye `cd C:\Program Files\Autodesk\VREDPro-13.0\lib\python` (make sure to naviga
    Tpye `cd C:\Program Files\Autodesk\VREDPro-13.0\lib\python` (make sure to navigate to the right Version: 13.0 or 13.1, etc)
 
    `python -m pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl`
+
+
 
 
 Now you can start VRED and use the files:
