@@ -1,4 +1,5 @@
-# Installation guide
+# Initial Setup
+## Installation guide
 
 Requires VRED 2021 and above
 
