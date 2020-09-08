@@ -1,6 +1,7 @@
 # Installation guide
 
 Requires VRED 2021 and above
+
 To run speech recognition in your VRED you first need to download and install the speech recognition library. 
 PyAudio is required to use and enable the microphone input.
 
