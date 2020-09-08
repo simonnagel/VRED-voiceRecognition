@@ -60,7 +60,7 @@ Tpye `cd C:\Program Files\Autodesk\VREDPro-13.0\lib\python` (make sure to naviga
 
 `python -m pip install PyAudio`
 
-
+<br/>
 
 
    If you encounter an error message: 
@@ -78,7 +78,7 @@ Tpye `cd C:\Program Files\Autodesk\VREDPro-13.0\lib\python` (make sure to naviga
 
    `python -m pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl`
 
-
+<br/>
 
 
 
