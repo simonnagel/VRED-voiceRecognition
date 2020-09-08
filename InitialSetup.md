@@ -60,6 +60,13 @@ Tpye `cd C:\Program Files\Autodesk\VREDPro-13.0\lib\python` (make sure to naviga
 
 `python -m pip install PyAudio`
 
+
+Now you can start VRED and use the files:
+VRED-voiceRecogControlTemplate.py
+VRED-voiceRecogAnnotation.py
+VRED-voiceRecogControlTemplateAnnotation.py
+
+
 <br/>
 
 
@@ -82,10 +89,6 @@ Tpye `cd C:\Program Files\Autodesk\VREDPro-13.0\lib\python` (make sure to naviga
 
 
 
-Now you can start VRED and use the files:
-VRED-voiceRecogControlTemplate.py
-VRED-voiceRecogAnnotation.py
-VRED-voiceRecogControlTemplateAnnotation.py
 
 
 ### Sources: 
