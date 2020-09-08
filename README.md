@@ -1,5 +1,7 @@
 # Use Python Voice recognition to control your VRED 2021
 
+![](VRED-voiceRecogControlTemplate.gif)
+
 Virtual reality allows us to jump over the barrier to the digital easily.
 The access to complex digital data can be simplified by using VR, as there is no need of any software knowhow at all.
 That is why VR and VR Collaboration are an important part not only in the current design review process already.
